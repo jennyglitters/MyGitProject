@@ -1,1 +1,2 @@
 Hello, Git!
+here is my added content for step 7 of the assignment for git
